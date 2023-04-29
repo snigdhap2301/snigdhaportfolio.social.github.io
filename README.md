@@ -1,4 +1,4 @@
-# snigdhaportfolio.social.github.io
+
 # Portfolio Website
 This portfolio website is a visual representation of my professional profile, created with the intention of showcasing my skills, projects, and contact information. Built using HTML and CSS, the website serves as an interactive platform to convey my abilities to potential employers, clients, or collaborators.
 
